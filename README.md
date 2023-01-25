@@ -11,3 +11,7 @@ a project creator for developement
 - HTML & CSS
 
 
+# current version :
+
+0.1 (pre-Alpha version)
+
