@@ -15,3 +15,6 @@ a project creator for developement
 
 0.1 (pre-Alpha version)
 
+# notes
+
+- download main.py AND data.txt
